@@ -3842,6 +3842,51 @@ body {
 .cid-rFI8deloiT .mbr-section-title {
   text-align: center;
 }
+.cid-rIO1DKkeyg {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rIO1DKkeyg .card {
+  display: flex;
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rIO1DKkeyg .card .card-wrapper {
+  background: #ffffff;
+  height: 1%;
+}
+.cid-rIO1DKkeyg .card .card-wrapper .card-img {
+  position: relative;
+  overflow: hidden;
+  border-radius: 0;
+  z-index: 1;
+}
+.cid-rIO1DKkeyg .card .card-wrapper .card-img img {
+  transition: all .5s;
+}
+.cid-rIO1DKkeyg .card .card-wrapper .card-img .img-text {
+  position: absolute;
+  padding: .6rem;
+  top: 1.5rem;
+  left: 1.5rem;
+  z-index: 1;
+  border-radius: 100px;
+  background-color: #66458e;
+}
+.cid-rIO1DKkeyg .card .card-wrapper .card-img .img-text span {
+  display: block;
+}
+.cid-rIO1DKkeyg .card .card-wrapper .card-box {
+  padding: 1.5rem;
+}
+.cid-rIO1DKkeyg .mbr-card-text {
+  margin: 0;
+}
+.cid-rIO1DKkeyg .mbr-section-title {
+  text-align: center;
+}
 .cid-rFIcJYgIQk {
   padding-top: 45px;
   padding-bottom: 45px;
