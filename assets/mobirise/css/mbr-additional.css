@@ -2696,6 +2696,47 @@ body {
 .cid-rJIeXORys2 .mbr-text LI {
   color: #ffffff;
 }
+.cid-rJLNyoH7HJ {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rJLNyoH7HJ .main {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
+}
+.cid-rJLNyoH7HJ .row-element,
+.cid-rJLNyoH7HJ .image-element {
+  padding: 0;
+}
+.cid-rJLNyoH7HJ .image-element {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-rJLNyoH7HJ .image-element img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+.cid-rJLNyoH7HJ .text-content {
+  padding: 3rem;
+}
+.cid-rJLNyoH7HJ .mbr-section-subtitle {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-rJLNyoH7HJ .text-content {
+    padding: 2rem 1rem;
+  }
+  .cid-rJLNyoH7HJ .mbr-title,
+  .cid-rJLNyoH7HJ .underline,
+  .cid-rJLNyoH7HJ .mbr-text,
+  .cid-rJLNyoH7HJ .mbr-section-btn {
+    text-align: center !important;
+  }
+}
 .cid-rEbp4Chmpt {
   padding-top: 30px;
   padding-bottom: 0px;
