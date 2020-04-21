@@ -1748,6 +1748,9 @@ section.lazy-placeholder:after {
 .cid-rINPIkrVqA .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rINPIkrVqA .mbr-section-subtitle DIV {
+  text-align: left;
+}
 .cid-rJLIvORhtK {
   background: #ffffff;
   padding-top: 0px;
