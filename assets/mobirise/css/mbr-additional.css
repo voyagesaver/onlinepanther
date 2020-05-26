@@ -656,7 +656,7 @@ section.lazy-placeholder:after {
   overflow: hidden !important;
   padding-top: 120px;
   padding-bottom: 90px;
-  background: linear-gradient(to right, #bad2e7 0%, #bad2e7 30%, #bad2e7 30%, #bad2e7 100%);
+  background: linear-gradient(to right, #ecf5ff 0%, #ecf5ff 30%, #ecf5ff 30%, #ecf5ff 100%);
 }
 .cid-rUzD9bbGSu .animated-element {
   color: #efefef;
@@ -680,7 +680,7 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 768px) {
   .cid-rUzD9bbGSu {
-    background: #bad2e7;
+    background: #ecf5ff;
   }
   .cid-rUzD9bbGSu .img-block {
     padding-bottom: 2rem;
