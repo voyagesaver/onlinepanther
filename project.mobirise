@@ -1,16 +1,16 @@
 {
   "settings": {
     "name": "Online Panther",
-    "currentPage": "resources.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
       "styling": {
-        "primaryColor": "#a8caef",
+        "primaryColor": "#6a95c4",
         "secondaryColor": "#ca4336",
         "successColor": "#365c9a",
         "infoColor": "#e96188",
-        "warningColor": "#ecf5ff",
+        "warningColor": "#000000",
         "dangerColor": "#232323",
         "mainFont": "Poppins",
         "display1Font": "Poppins",
@@ -34,7 +34,8 @@
         "#ecf5ff",
         "#a8caef",
         "#3776ba",
-        "#bad2e7"
+        "#bad2e7",
+        "#6a95c4"
       ]
     },
     "path": "@PROJECT_PATH@",
