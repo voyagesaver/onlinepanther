@@ -116,6 +116,9 @@
               "& when (@bg-type = 'color')": {
                 "background": "@bg-value"
               }
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
             }
           },
           "_name": "header10",
