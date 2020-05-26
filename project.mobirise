@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Panther",
-    "currentPage": "resources.html",
+    "currentPage": "films.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
@@ -70,8 +70,8 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<div id=\"sfc3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">website counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"website counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\" border=\"0\" title=\"website counter\" alt=\"website counter\"></a></noscript>",
-        "footer_custom": "",
+        "header_custom": "",
+        "footer_custom": "<div id=\"sfce3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">web page counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"web page counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\" border=\"0\" title=\"web page counter\" alt=\"web page counter\"></a></noscript>",
         "html_before": ""
       },
       "components": [
@@ -802,7 +802,8 @@
       "settings": {
         "title": "Resources",
         "order": 2,
-        "header_custom": "<div id=\"sfc3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">website counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"website counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\" border=\"0\" title=\"website counter\" alt=\"website counter\"></a></noscript>"
+        "header_custom": "",
+        "footer_custom": "<div id=\"sfce3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">web page counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"web page counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\" border=\"0\" title=\"web page counter\" alt=\"web page counter\"></a></noscript>"
       },
       "components": [
         {
@@ -1637,7 +1638,8 @@
       "settings": {
         "title": "Dr. Pinderhughes",
         "order": 4,
-        "header_custom": "<div id=\"sfc3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">website counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"website counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\" border=\"0\" title=\"website counter\" alt=\"website counter\"></a></noscript>"
+        "header_custom": "",
+        "footer_custom": "<div id=\"sfce3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">web page counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"web page counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\" border=\"0\" title=\"web page counter\" alt=\"web page counter\"></a></noscript>"
       },
       "components": [
         {
@@ -2230,7 +2232,8 @@
       "settings": {
         "title": "Booking",
         "order": 3,
-        "header_custom": "<div id=\"sfc3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">website counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"website counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\" border=\"0\" title=\"website counter\" alt=\"website counter\"></a></noscript>"
+        "header_custom": "",
+        "footer_custom": "<div id=\"sfce3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">web page counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"web page counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\" border=\"0\" title=\"web page counter\" alt=\"web page counter\"></a></noscript>"
       },
       "components": [
         {
@@ -2817,7 +2820,8 @@
       "settings": {
         "title": "Speaking Presentations Page",
         "order": 5,
-        "header_custom": "<div id=\"sfc3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">website counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"website counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\" border=\"0\" title=\"website counter\" alt=\"website counter\"></a></noscript>"
+        "header_custom": "",
+        "footer_custom": "<div id=\"sfce3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">web page counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"web page counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\" border=\"0\" title=\"web page counter\" alt=\"web page counter\"></a></noscript>"
       },
       "components": [
         {
@@ -3637,7 +3641,8 @@
       "settings": {
         "title": "FILM DISCUSSIONS",
         "order": 6,
-        "header_custom": "<div id=\"sfc3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">website counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"website counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\" border=\"0\" title=\"website counter\" alt=\"website counter\"></a></noscript>"
+        "header_custom": "",
+        "footer_custom": "<div id=\"sfce3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">web page counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"web page counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\" border=\"0\" title=\"web page counter\" alt=\"web page counter\"></a></noscript>"
       },
       "components": [
         {
@@ -4543,7 +4548,8 @@
       "settings": {
         "title": "About Us",
         "order": 1,
-        "header_custom": "<div id=\"sfc3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">website counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"website counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=3s3gjbwcf7fxkxymxjf14nwk7n9q9q4p\" border=\"0\" title=\"website counter\" alt=\"website counter\"></a></noscript>"
+        "header_custom": "",
+        "footer_custom": "<div id=\"sfce3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\"></div><script type=\"text/javascript\" src=\"https://counter5.stat.ovh/private/counter.js?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb&down=async\" async></script><br><a href=\"https://www.freecounterstat.com\">web page counter</a><noscript><a href=\"https://www.freecounterstat.com\" title=\"web page counter\"><img src=\"https://counter5.stat.ovh/private/freecounterstat.php?c=e3yzwp8wfh8gbj3yq8uap7k46ylj7hpb\" border=\"0\" title=\"web page counter\" alt=\"web page counter\"></a></noscript>"
       },
       "components": [
         {
