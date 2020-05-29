@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Panther",
-    "currentPage": "films.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
@@ -72,7 +72,7 @@
         "title": "Home",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>",
+        "footer_custom": "<!-- hitwebcounter Code START -->\n<a href=\"https://www.hitwebcounter.com\" target=\"_blank\">\n<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>",
         "html_before": ""
       },
       "components": [
@@ -804,7 +804,7 @@
         "title": "Resources",
         "order": 2,
         "header_custom": "",
-        "footer_custom": "<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>"
+        "footer_custom": "<!-- hitwebcounter Code START -->\n<a href=\"https://www.hitwebcounter.com\" target=\"_blank\">\n<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>"
       },
       "components": [
         {
@@ -1640,7 +1640,7 @@
         "title": "Dr. Pinderhughes",
         "order": 4,
         "header_custom": "",
-        "footer_custom": "<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>"
+        "footer_custom": "<!-- hitwebcounter Code START -->\n<a href=\"https://www.hitwebcounter.com\" target=\"_blank\">\n<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>"
       },
       "components": [
         {
@@ -2234,7 +2234,7 @@
         "title": "Booking",
         "order": 3,
         "header_custom": "",
-        "footer_custom": "<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>"
+        "footer_custom": "<!-- hitwebcounter Code START -->\n<a href=\"https://www.hitwebcounter.com\" target=\"_blank\">\n<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>"
       },
       "components": [
         {
@@ -2822,7 +2822,7 @@
         "title": "Speaking Presentations Page",
         "order": 5,
         "header_custom": "",
-        "footer_custom": "<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>"
+        "footer_custom": "<!-- hitwebcounter Code START -->\n<a href=\"https://www.hitwebcounter.com\" target=\"_blank\">\n<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>"
       },
       "components": [
         {
@@ -3643,7 +3643,7 @@
         "title": "FILM DISCUSSIONS",
         "order": 6,
         "header_custom": "",
-        "footer_custom": "<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>",
+        "footer_custom": "<!-- hitwebcounter Code START -->\n<a href=\"https://www.hitwebcounter.com\" target=\"_blank\">\n<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>",
         "html_before": ""
       },
       "components": [
@@ -4551,7 +4551,7 @@
         "title": "About Us",
         "order": 1,
         "header_custom": "",
-        "footer_custom": "<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>"
+        "footer_custom": "<!-- hitwebcounter Code START -->\n<a href=\"https://www.hitwebcounter.com\" target=\"_blank\">\n<img src=\"https://hitwebcounter.com/counter/counter.php?page=7354845&style=0001&nbdigits=5&type=page&initCount=0\" title=\"Web Counter\" Alt=\"counter free\"   border=\"0\" >\n</a>"
       },
       "components": [
         {
