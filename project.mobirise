@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Panther",
-    "currentPage": "resources.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
@@ -73,7 +73,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/frame%204%20(1)-1590x1229.png"
       },
       "components": [
         {
@@ -804,7 +805,8 @@
         "title": "Resources",
         "order": 2,
         "header_custom": "",
-        "footer_custom": ""
+        "footer_custom": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/frame%204%20(1)-1590x1229.png"
       },
       "components": [
         {
@@ -1640,7 +1642,8 @@
         "title": "Dr. Pinderhughes",
         "order": 4,
         "header_custom": "",
-        "footer_custom": ""
+        "footer_custom": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/frame%204%20(1)-1590x1229.png"
       },
       "components": [
         {
@@ -2234,7 +2237,8 @@
         "title": "Booking",
         "order": 3,
         "header_custom": "",
-        "footer_custom": ""
+        "footer_custom": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/frame%204%20(1)-1590x1229.png"
       },
       "components": [
         {
@@ -2822,7 +2826,8 @@
         "title": "Speaking Presentations Page",
         "order": 5,
         "header_custom": "",
-        "footer_custom": ""
+        "footer_custom": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/frame%204%20(1)-1590x1229.png"
       },
       "components": [
         {
@@ -3644,7 +3649,8 @@
         "order": 6,
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/frame%204%20(1)-1590x1229.png"
       },
       "components": [
         {
