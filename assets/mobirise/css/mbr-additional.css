@@ -767,7 +767,6 @@ section.lazy-placeholder:after {
   min-height: 77px;
   transition: all .3s;
   background: #bad2e7;
-  background: none;
 }
 .cid-rUEfccMFlx .navbar.opened {
   transition: all .3s;
@@ -789,7 +788,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rUEfccMFlx .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(99vh - 5.6rem);
+    max-height: calc(99vh - 4.3rem);
   }
 }
 .cid-rUEfccMFlx .navbar.collapsed .dropdown-menu {
@@ -2782,9 +2781,20 @@ section.lazy-placeholder:after {
     left: -1rem;
   }
 }
+.cid-s1bAThMJdp {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-image: url("../../../assets/images/frame-9-2000x748.png");
+}
+.cid-s1bAThMJdp .mbr-overlay {
+  background: #000000;
+}
+.cid-s1bAThMJdp .mbr-section-title {
+  letter-spacing: -1px;
+}
 .cid-rJLIFEJdqV {
-  padding-top: 135px;
-  background-image: url("../../../assets/images/a-a-solidarity-2-1-622x900.png");
+  padding-top: 0px;
+  background-color: #a8caef;
 }
 .cid-rJLIFEJdqV .text-content {
   padding-bottom: 45px;
@@ -3097,7 +3107,6 @@ section.lazy-placeholder:after {
   min-height: 77px;
   transition: all .3s;
   background: #bad2e7;
-  background: none;
 }
 .cid-rUEfccMFlx .navbar.opened {
   transition: all .3s;
@@ -3119,7 +3128,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rUEfccMFlx .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(99vh - 5.6rem);
+    max-height: calc(99vh - 4.3rem);
   }
 }
 .cid-rUEfccMFlx .navbar.collapsed .dropdown-menu {
