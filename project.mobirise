@@ -52,7 +52,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 186,
+    "uniqCompNum": 204,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/black-panther-logo-164x147-128x115.png",
@@ -64,7 +64,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "<div class=\"powr-hit-counter\" id=\"182b8c31_1595006741\"></div><script src=\"https://www.powr.io/powr.js?platform=mobirise\"></script>\n"
+    "google-analytics": "\n"
   },
   "pages": {
     "index.html": {
