@@ -73,8 +73,8 @@
         "title": "Home",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "",
-        "html_before": "<script type=\"text/javascript\" src=\"//counter.websiteout.net/js/17/0/0/0\"></script>",
+        "footer_custom": "<script type=\"text/javascript\" src=\"//counter.websiteout.net/js/17/0/0/0\"></script>\n",
+        "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/frame%204%20(1)-1590x1229.png"
       },
       "components": [
