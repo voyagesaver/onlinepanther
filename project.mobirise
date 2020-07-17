@@ -63,7 +63,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "google-analytics": "<div class=\"powr-hit-counter\" id=\"182b8c31_1595006741\"></div><script src=\"https://www.powr.io/powr.js?platform=mobirise\"></script>\n"
   },
   "pages": {
     "index.html": {
@@ -72,8 +73,8 @@
         "title": "Home",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<script type=\"text/javascript\" src=\"//counter.websiteout.net/js/17/0/0/0\"></script>\n",
-        "html_before": "",
+        "footer_custom": "",
+        "html_before": "<script type=\"text/javascript\" src=\"//counter.websiteout.net/js/17/0/0/0\"></script>",
         "meta_image": "@PROJECT_PATH@/assets/images/frame%204%20(1)-1590x1229.png"
       },
       "components": [
