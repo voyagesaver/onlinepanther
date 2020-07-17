@@ -689,6 +689,18 @@ section.lazy-placeholder:after {
 .cid-rUzD9bbGSu .mbr-section-title {
   color: #000000;
 }
+#custom-html-6i {
+  /* Type valid CSS here */
+}
+#custom-html-6i div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-6i p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-rUEfccMFlx .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
