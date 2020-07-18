@@ -652,6 +652,18 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.5;
 }
+#custom-html-6l {
+  /* Type valid CSS here */
+}
+#custom-html-6l div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-6l p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-rUzD9bbGSu {
   overflow: hidden !important;
   padding-top: 120px;
@@ -688,18 +700,6 @@ section.lazy-placeholder:after {
 }
 .cid-rUzD9bbGSu .mbr-section-title {
   color: #000000;
-}
-#custom-html-6k {
-  /* Type valid CSS here */
-}
-#custom-html-6k div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-6k p {
-  font-size: 60px;
-  color: #777;
 }
 .cid-rUEfccMFlx .dropdown-item:before {
   font-family: MobiriseIcons !important;
