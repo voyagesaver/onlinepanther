@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Online Panther",
-    "currentPage": "drpinderhughes.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "commercem4",
       "title": "CommerceM4",
@@ -830,7 +830,8 @@
         "order": 2,
         "header_custom": "",
         "footer_custom": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/frame%204%20(1)-1590x1229.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/frame%204%20(1)-1590x1229.png",
+        "meta_descr": "Resources, documents, books and film recommendations on different topics related to the Black Panthers and others"
       },
       "components": [
         {
@@ -5500,10 +5501,11 @@
         }
       ]
     },
-    "page7.html": {
+    "new.html": {
       "settings": {
         "title": "What's new",
-        "order": 1
+        "order": 1,
+        "meta_descr": "Listing the changes made on Black Panther Online Website"
       },
       "components": [
         {
