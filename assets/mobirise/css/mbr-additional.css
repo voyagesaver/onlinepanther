@@ -22,7 +22,7 @@ body {
 }
 .display-5 {
   font-family: 'Poppins', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -50,9 +50,9 @@ body {
     line-height: calc( 1.4 * (0.9475rem + (0.85 - 0.9475) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.12rem;
+    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -667,7 +667,7 @@ section.lazy-placeholder:after {
 .cid-rUzD9bbGSu {
   overflow: hidden !important;
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background: linear-gradient(to right, #ecf5ff 0%, #ecf5ff 30%, #ecf5ff 30%, #ecf5ff 100%);
 }
 .cid-rUzD9bbGSu .animated-element {
@@ -1049,7 +1049,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-sauDmNpJgg {
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
@@ -1100,8 +1100,16 @@ section.lazy-placeholder:after {
 .cid-savaSUNTur .mbr-title {
   text-align: left;
 }
+.cid-scBdxStlep {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-scBdxStlep .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-savoIXIDka {
-  padding-top: 60px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -1117,7 +1125,7 @@ section.lazy-placeholder:after {
 }
 .cid-saAyGjmiem {
   padding-top: 15px;
-  padding-bottom: 60px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-saAyGjmiem .header-text {
@@ -3210,6 +3218,14 @@ section.lazy-placeholder:after {
 .cid-s7pBm6cYmB .mbr-section-title {
   color: #000000;
 }
+.cid-scB88nJ0gx {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-scB88nJ0gx .mbr-section-subtitle {
+  color: #000000;
+}
 .cid-rEbayelWmj {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -5184,6 +5200,17 @@ section.lazy-placeholder:after {
 .cid-s521IHVvGN .mbr-section-btn {
   color: #000000;
 }
+.cid-scB6sdd0dL {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-scB6sdd0dL .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-scB6sdd0dL .mbr-section-title {
+  color: #ffffff;
+}
 .cid-saAxeh85cv {
   padding-top: 30px;
   padding-bottom: 15px;
@@ -5198,7 +5225,7 @@ section.lazy-placeholder:after {
 .cid-saAxF5JejP {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #bad2e7;
+  background-color: #ffffff;
 }
 .cid-saAxF5JejP .mbr-section-subtitle {
   color: #767676;
@@ -5206,10 +5233,21 @@ section.lazy-placeholder:after {
 .cid-saAxF5JejP .mbr-section-title {
   color: #ffffff;
 }
-.cid-s6QBvKjiUb {
+.cid-s7pCflk9eS {
   padding-top: 30px;
   padding-bottom: 15px;
   background-color: #000000;
+}
+.cid-s7pCflk9eS .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s7pCflk9eS .mbr-section-title {
+  color: #ffffff;
+}
+.cid-s6QBvKjiUb {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
 }
 .cid-s6QBvKjiUb .mbr-section-subtitle {
   color: #767676;
@@ -5220,7 +5258,7 @@ section.lazy-placeholder:after {
 .cid-s6QES5K95h {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #bad2e7;
+  background-color: #000000;
 }
 .cid-s6QES5K95h .mbr-section-subtitle {
   color: #767676;
@@ -5231,23 +5269,12 @@ section.lazy-placeholder:after {
 .cid-s7pxXqRRrE {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-s7pxXqRRrE .mbr-section-subtitle {
   color: #767676;
 }
 .cid-s7pxXqRRrE .mbr-section-title {
-  color: #ffffff;
-}
-.cid-s7pCflk9eS {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #bad2e7;
-}
-.cid-s7pCflk9eS .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-s7pCflk9eS .mbr-section-title {
   color: #ffffff;
 }
 .cid-ro1ybeeS3n {
