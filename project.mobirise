@@ -53,7 +53,7 @@
       }
     ],
     "uniqCompNum": 273,
-    "versionPublish": "4.12.3",
+    "versionPublish": "5.5.8",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/black-panther-logo-164x147-128x115.png",
     "noImageResize": "",
@@ -64,7 +64,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "\n"
+    "google-analytics": "\n",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -550,73 +551,16 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "color": "#767676"
+              "color": "#ffffff"
             }
           },
           "_name": "content7",
-          "_customHTML": "<section group=\"Content\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md-12 align-center\" mbr-if=\"showTitle || showSubtitle\">\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-fonts-style pb-2\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-subtitle\">Black Panther Online.com</h3>\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\">is a speaking service providing WEBINARS analyzing political lessons from the\n</span><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">experience of the [original, Oakland-based] Black PantherParty, including </span><a href=\"films.html\">Film\n</a></div><div><a href=\"films.html\">\n</a></div><div><a href=\"films.html\">Discussions</a><span style=\"font-weight: normal;\"> as well as full </span><a href=\"speakings.html\">Speaking Presentations</a><span style=\"font-weight: normal;\"> to students, educational\n</span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">institutions, and community organizations by veteran Black Panther </span><a href=\"drpinderhughes.html\">Charles “Cappy\"\n</a></div><div><a href=\"drpinderhughes.html\">\n</a></div><div><a href=\"drpinderhughes.html\">Pinderhughes</a><span style=\"font-weight: normal;\">, Ph.D. Presentations can be </span><a href=\"booking.html\">booked</a><span style=\"font-weight: normal;\"> by any Grade 6-12 educator,\n</span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">any college representative [student, faculty, or administration], or any community\n</span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">organization representative.&nbsp;</span></div></h2>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Content\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!--Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-md-12 align-center\" mbr-if=\"showTitle || showSubtitle\">\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-fonts-style pb-2\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-subtitle\">Black Panther Online.com</h3>\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center mbr-fonts-style mbr-bold\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-title\"><span style=\"font-weight: normal;\">is a speaking service providing WEBINARS analyzing political lessons from the\n</span><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">experience of the [original, Oakland-based] Black PantherParty, including </span><a href=\"films.html\">Film\n</a></div><div><a href=\"films.html\">\n</a></div><div><a href=\"films.html\">Discussions</a><span style=\"font-weight: normal;\"> as well as full </span><a href=\"speakings.html\">Speaking Presentations</a><span style=\"font-weight: normal;\"> to students, educational\n</span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">institutions, and community organizations by veteran Black Panther </span><a href=\"drpinderhughes.html\">Charles “Cappy\"\n</a></div><div><a href=\"drpinderhughes.html\">\n</a></div><div><a href=\"drpinderhughes.html\">Pinderhughes</a><span style=\"font-weight: normal;\">, Ph.D. Presentations can be </span><a href=\"booking.html\">booked</a><span style=\"font-weight: normal;\"> by any Grade 6-12 educator,\n</span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">any college representative [student, faculty, or administration], or any community\n</span></div><div><span style=\"font-weight: normal;\">\n</span></div><div><span style=\"font-weight: normal;\">organization representative.&nbsp;</span></div></h2>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sauDmNpJgg",
           "_anchor": "content7-75",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".main": {
-              "& when (@reverseContent)": {
-                "-webkit-flex-direction": "row-reverse",
-                "flex-direction": "row-reverse"
-              }
-            },
-            ".row-element,.image-element": {
-              "padding": "0"
-            },
-            ".image-element": {
-              "display": "flex",
-              "-webkit-justify-content": "center",
-              "justify-content": "center",
-              "img": {
-                "width": "100%",
-                "height": "100%",
-                "object-fit": "cover",
-                "object-position": "center center"
-              }
-            },
-            ".text-content": {
-              "padding": "3rem"
-            },
-            "@media (max-width: 767px)": {
-              ".text-content": {
-                "padding": "2rem 1rem"
-              },
-              ".mbr-title,.underline,.mbr-text,.mbr-section-btn": {
-                "text-align": "center !important"
-              }
-            },
-            ".mbr-title": {
-              "text-align": "left"
-            }
-          },
-          "_name": "features17",
-          "_customHTML": "<section class=\"features17\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Shw Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>    \n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"reverseContent\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#000000\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row main align-items-center\">\n            <div class=\"col-md-6 image-element\">\n                <div class=\"img-wrap\">\n                    <a href=\"https://www.maysles.org/calendar/2020/10/4/12th-annual-black-panther-party-film-festival\"><img src=\"@PROJECT_PATH@/assets/images/dddd-302x409.png\" alt title></a>\n                </div>\n            </div>\n            <div class=\"col-md-6 text-element\">\n                <div class=\"text-content\">\n                    <h4 class=\"mbr-section-subtitle mbr-fonts-style mbr-white align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\"><b>LIMITED TIME - OCTOBER 4-18</b></h4>\n                    <h2 class=\"mbr-title pt-2 mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-title\"><b>Black Panther Party Film Festival\n&nbsp;</b><b style=\"font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit;\">2020 Online</b></h2>\n                    <div class=\"mbr-section-text\">\n                        <p class=\"mbr-text pt-3 mbr-light mbr-fonts-style align-left mbr-white\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text,.mbr-section-btn\">Including\n<br>\n<br>Cruel and Unusual [The Angola 3]\n<br>Every Mother’s Son [Mothers of slain Black Males]\n<br>True Justice [Bryan Stevenson &amp; the Equal Justice Initiative]\n<br>My People Are Rising [Biography of Seattle BPP Area Captain]\n<br>Sponsored by the Black Panther Commemoration Committee</p>\n                    </div>\n                    <div class=\"mbr-section-btn pt-3 align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-md btn-white\" href=\"https://www.maysles.org/calendar/2020/10/4/12th-annual-black-panther-party-film-festival\" data-app-placeholder=\"Type Text\">Click Here</a></div>\n                </div>\n            </div>\n        </div>\n    </div>          \n</section>",
-          "_cid": "savaSUNTur",
-          "_anchor": "features17-7a",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -664,7 +608,7 @@
             }
           },
           "_name": "content15",
-          "_customHTML": "<section class=\"mbr-section content8\" group=\"Content\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"25\">\n        <input type=\"color\" title=\"BG Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-12\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                        <img src=\"@PROJECT_PATH@/assets/images/frame-22-1-367x372.png\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-left mb-0 mbr-fonts-style mbr-black\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><p>&nbsp; &nbsp; &nbsp; &nbsp;The purpose of this website is providing resources for better understanding the original Black Panther Party (BPP). The terminology used here is in no way meant to be a negative reflection on the dedication, commitment and great sacrifice of the thousands of members of the BPP who selflessly served the people during the decade-long era of the party's decline. Dr. Pinderhughes’ choice of period labels is an attempt to reflect the initial thrust of the BPP, as well as the overall course of the group’s development. This material is presented in the spirit of strong support for current political prisoners &amp; others who have gone before, especially those that have died trying to make political change. One extremely important means of commemorating their sacrifices is the careful summing up of the Black Panther Party’s shortcomings as well as successes, in order to help offer today’s and future activists a vital foundation upon which to build.<br>&nbsp; &nbsp; &nbsp; &nbsp;The main focus of many of these resources, including written materials as well as source videos, is the first 4.5 years of the 16-year arc of the life of the organization (especially the 2.5 years from 9/68-2/71). . . . . . .</p></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\" group=\"Content\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"25\">\n        <input type=\"color\" title=\"BG Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-12\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                        <img src=\"@PROJECT_PATH@/assets/images/frame-22-1-367x372.png\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-left mb-0 mbr-fonts-style mbr-black\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"></p><p>&nbsp; &nbsp; &nbsp; &nbsp;The purpose of this website is providing resources for better understanding the original Black Panther Party (BPP). The terminology used here is in no way meant to be a negative reflection on the dedication, commitment and great sacrifice of the thousands of members of the BPP who selflessly served the people during the decade-long era of the party's decline. Dr. Pinderhughes’ choice of period labels is an attempt to reflect the initial thrust of the BPP, as well as the overall course of the group’s development. This material is presented in the spirit of strong support for current political prisoners &amp; others who have gone before, especially those that have died trying to make political change. One extremely important means of commemorating their sacrifices is the careful summing up of the Black Panther Party’s shortcomings as well as successes, in order to help offer today’s and future activists a vital foundation upon which to build.<br>&nbsp; &nbsp; &nbsp; &nbsp;The main focus of many of these resources, including written materials as well as source videos, is the first 4.5 years of the 16-year arc of the life of the organization (especially the 2.5 years from 9/68-2/71). . . . . . .</p><p></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "savoIXIDka",
           "_anchor": "content15-7e",
           "_PHPplaceholders": [],
